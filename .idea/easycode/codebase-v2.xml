@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/app/src/androidTest/java/com/example/fitsync/ExampleInstrumentedTest.kt;C:/Users/shrey/AndroidStudioProjects/FitSync/app/src/main/java/com/example/fitsync/MainActivity.kt;C:/Users/shrey/AndroidStudioProjects/FitSync/app/src/test/java/com/example/fitsync/ExampleUnitTest.kt;C:/Users/shrey/AndroidStudioProjects/FitSync/app/build.gradle.kts;C:/Users/shrey/AndroidStudioProjects/FitSync/build.gradle.kts;C:/Users/shrey/AndroidStudioProjects/FitSync/settings.gradle.kts" />
+  </component>
+</project>
